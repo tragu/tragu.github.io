@@ -4,9 +4,12 @@ $(function() {
 		message: [
       'AI;',
 			'Sky;', 
-			'Books;', 
-			'Solitude;', 
-      '.........;',
+			'Books;',
+			'Writing;',
+			'Solitude;',
+			'Travelling;',
+			 
+      
 			
 		],
 		counterS: 0,
