@@ -2,7 +2,7 @@ $(function() {
 	var message = {
 
 		message: [
-      'AI;',
+      
 			'Sky;', 
 			'Books;',
 			'Writing;',
